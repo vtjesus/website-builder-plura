@@ -2,9 +2,6 @@
 
 
 
-
-## SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
-
 ### Features in this application.
 - 🤯 Multivendor B2B2B Saas
 - 🏢 Agency and Sub accounts
